@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "ABD'de son 24 saatte koronavirüsten ölenlerin sayısı 428",
+	  "url": "https://www.sondakika.com/haber/haber-tufekle-oyun-olum-getirdi-13435918/",
+	  "urlToImage":"https://foto.sondakika.com/haber/2020/07/20/13-yasindaki-kiz-cocugu-oynadigi-tufegin-ates-13435918_2002_osd.jpg",
+	  "detail": "ABD'de yeni tip koronavirüs (Kovid-19) salgınında ölü sayısı son 24 saatte 428 artarak 143 bin 311'e yükseldi.ABD, Kovid-19 salgınının merkezi ve en çok can kaybının yaşandığı ülke konumunu koruyor.Kovid-19 verilerinin derlendiği Worldometer internet sitesine göre, ülkede virüs bulaşan kişi sayısı, son 24 saatte 63 bin 981 artışla 3 milyon 899 bin 411'e ulaştı.Virüs nedeniyle yaşamını yitirenlerin sayısı da son 24 saatte 428 artarak 143 bin 311'e çıktı.Dünyada en fazla vaka görülen ülkeler sıralamasında ABD'yi 2 milyon 99 bin 896 ile Brezilya, 1 milyon 119 bin 412 ile Hindistan ve 777 bin 486 vakayla Rusya izliyor.Günlük vaka ve ölü sayısındaki düşüşe rağmen New York, ABD'de salgından en fazla etkilenen eyalet konumunu sürdürüyor.New York'ta 434 bin 164 kişiye virüs bulaştı, 32 bin 570 kişi hayatını kaybetti.New York'u 391 binden fazla vakayla California ve 350 binden fazla vakayla Florida takip ediyor.ABD'de Kovid-19 testi yapılan kişi sayısı 48 milyon 345 bini, iyileşenlerin sayısı da 1 milyon 802 bini geçti.",
+	  "publishedAt": "20.07.2020 16:58",
+	  "author": "Ensar Kahraman"
+    }
+  ],
+  "headers": [
+    {
+      "id": 1,
+      "title": "ABD'de son 24 saatte koronavirüsten ölenlerin sayısı 428 ",
+      "postDate": "17:22",
+      "urlToImage": "https://i4.hurimg.com/i/hurriyet/75/300x170/5f15a89a0f254416505efbb5.jpg"
+    }
+  ],
+  "users": [  {
+      "id": 1,
+      "name": "Ensar",
+      "surname": "Kahraman",
+      "year": "18"
+    }
+  ]
+}
